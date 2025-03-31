@@ -1,4 +1,3 @@
-
 # Repositori de pràctica
 
 Aquest és un projecte de pràctica per aprendre Git, GitHub i Markdown.
@@ -13,4 +12,3 @@ Aquest és un projecte de pràctica per aprendre Git, GitHub i Markdown.
 |----------|------|-----------|
 | Anna     | 25   | Barcelona |
 | Marc     | 30   | Girona    |
-
